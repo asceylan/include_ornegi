@@ -1,0 +1,32 @@
+<style media="screen">
+    body{
+      margin: 50px;
+    }
+    #ListeErkek{
+      background-color:#99ffff;
+      font-weight: bold;
+    }
+    #ListeErkek a{
+      background-color:#0066ff;
+      color:#ffffff;
+      width:50px;
+    }
+    #ListeKIZ{
+      background-color:#ffccff;
+      font-weight: bold;
+    }
+    #ListeKIZ a{
+      background-color:#ff66ff;
+      color:#000000;
+      width:50px;
+    }
+    #ListeUNISEKS{
+      background-color:#ffccff;
+      font-weight: bold;
+    }
+    #ListeUNISEKS a{
+      background-color:#ff66ff;
+      color:#000000;
+      width:50px;
+    }
+  </style>
